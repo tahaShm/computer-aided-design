@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cad_ca2.srcs/sources_1/new/acmReg.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/actReg.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/adder.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/controller.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/inputVector.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/weightVector.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/multiplier4.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/multiplier.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/inputSelector.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/datapath.vhd" \
+"../../../../cad_ca2.srcs/sim_1/new/neurontb.vhd" \
+
+# Do not sort compile order
+nosort

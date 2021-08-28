@@ -1,0 +1,16 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sim_1/new/neurontb.vhd,1577283803,vhdl,,,,neurontb,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sim_1/new/tb.vhd,1577289104,vhdl,,,,tb,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/acmReg.vhd,1577282417,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/datapath.vhd,,,acmreg,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/actReg.vhd,1577282415,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/datapath.vhd,,,actreg,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/adder.vhd,1577261358,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sim_1/new/tb.vhd,,,adder,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/controller.vhd,1577259309,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sim_1/new/neurontb.vhd,,,controller,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/datapath.vhd,1577282376,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sim_1/new/neurontb.vhd,,,datapath,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/inputSelector.vhd,1577284001,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/datapath.vhd,,,inputselector,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/inputVector.vhd,1577268886,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/datapath.vhd,,,inputvector,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/multiplier.vhd,1577262111,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sim_1/new/tb.vhd,,,multiplier,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/multiplier4.vhd,1577261580,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/multiplier.vhd,,,multiplier4,,,,,,,,
+C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/weightVector.vhd,1577269090,vhdl,C:/Users/Taha/Desktop/cad_ca2/cad_ca2.srcs/sources_1/new/datapath.vhd,,,weightvector,,,,,,,,

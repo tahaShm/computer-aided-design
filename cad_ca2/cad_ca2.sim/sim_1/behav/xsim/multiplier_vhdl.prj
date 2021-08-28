@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cad_ca2.srcs/sources_1/new/multiplier4.vhd" \
+"../../../../cad_ca2.srcs/sources_1/new/multiplier.vhd" \
+
+# Do not sort compile order
+nosort
